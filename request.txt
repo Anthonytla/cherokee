@@ -1,0 +1,5 @@
+GET /files/folder/test.json 1.1
+Content-Type:text/json
+Accept: text/txt; q=0.2, text/html; q=1
+
+jzoef
